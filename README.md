@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wroms
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @David_Monreal
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning kinesthetically
 - 💞️ I’m looking to collaborate on special place
